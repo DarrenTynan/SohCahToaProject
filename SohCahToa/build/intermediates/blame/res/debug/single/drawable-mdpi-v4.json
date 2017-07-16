@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/darrentynan/Development/Workspace/AndroidStudioProjects/SohCahToaProject/SohCahToa/build/intermediates/res/merged/debug/drawable-mdpi-v4/triangle_final.png",
+        "source": "/Users/darrentynan/Development/Workspace/AndroidStudioProjects/SohCahToaProject/SohCahToa/src/main/res/drawable-mdpi/triangle_final.png"
+    },
+    {
+        "merged": "/Users/darrentynan/Development/Workspace/AndroidStudioProjects/SohCahToaProject/SohCahToa/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/darrentynan/Development/Workspace/AndroidStudioProjects/SohCahToaProject/SohCahToa/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]

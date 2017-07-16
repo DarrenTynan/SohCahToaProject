@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1391680118000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /Users/darrentynan/AndroidStudioProjects/SohCahToaProject/SohCahToa/build/res/all/release/menu/main.xml
+1391680118000 217 f02e000d05a079992d2dba18039216c1e6b8784f /Users/darrentynan/AndroidStudioProjects/SohCahToaProject/SohCahToa/build/res/all/release/values-v14/values.xml
+1391710536000 5708 e60e7b1eaef5a43a421caeaf68cfd484ab407229 /Users/darrentynan/AndroidStudioProjects/SohCahToaProject/SohCahToa/build/res/all/release/drawable-mdpi/triangle_final.png
+1391690762000 824 d1aba808b89b58d5f64abfc490b506c59f4be77f /Users/darrentynan/AndroidStudioProjects/SohCahToaProject/SohCahToa/build/res/all/release/values/values.xml
+1391907366000 6805 44fabcc47887940d9635f6076356988da2960de0 /Users/darrentynan/AndroidStudioProjects/SohCahToaProject/SohCahToa/build/res/all/release/layout/activity_main.xml
+1391907366000 3454 ef3838cbfcfa353e96b4e180fa7f3b400a97f323 /Users/darrentynan/AndroidStudioProjects/SohCahToaProject/SohCahToa/build/res/all/release/drawable-mdpi/triangle.png
+1391680118000 203 19aedb7cdc3386344e36087b035a0a6b2b91d4cd /Users/darrentynan/AndroidStudioProjects/SohCahToaProject/SohCahToa/build/res/all/release/values-v11/values.xml
+1391680118000 3760 9d45e7de00dac30e9738dc369dece2835bf9677e /Users/darrentynan/AndroidStudioProjects/SohCahToaProject/SohCahToa/build/res/all/release/drawable-mdpi/ic_launcher.png
+1391680118000 12356 75154d4f6e93c8832a74d3c27c8cf0d44672ea3e /Users/darrentynan/AndroidStudioProjects/SohCahToaProject/SohCahToa/build/res/all/release/drawable-xhdpi/ic_launcher.png
+1391680118000 125 fae9d1b71d520745438010c9ca7cde9c81dfefac /Users/darrentynan/AndroidStudioProjects/SohCahToaProject/SohCahToa/build/res/all/release/values-sw720dp-land/values.xml
+1391680118000 24780 6c2954bdacb8129ac00edfd084b98daf226518e3 /Users/darrentynan/AndroidStudioProjects/SohCahToaProject/SohCahToa/build/res/all/release/drawable-xxhdpi/ic_launcher.png
+1391680118000 7783 03172612ec7d8d2cc6295a185410c3e6501771aa /Users/darrentynan/AndroidStudioProjects/SohCahToaProject/SohCahToa/build/res/all/release/drawable-hdpi/ic_launcher.png
